@@ -1,12 +1,19 @@
-verl
-============
+Verl
+====================
+
+.. raw:: html
+------------------
+
+欢迎来到Verl-Ascend 文档中心
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
+   :caption: Verl-Ascend 文档中心
 
-   ../_generated/sources/verl/ascend_quick_start
-   ../_generated/sources/verl/ascend_sglang_quick_start
-   ../_generated/sources/verl/dockerfile_build_guidance
-   ../_generated/sources/verl/ascend_profiling_en
-   ../_generated/sources/verl/ascend_profiling_zh
-   ../_generated/sources/verl/ascend_consistency
+   quickstart
+   core
+   advanced
+   industry
+   troubleshooting
+   contribute
+

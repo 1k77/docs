@@ -73,7 +73,7 @@ def setup(app):
     app.add_css_file('custom.css')
     app.add_js_file('package_info.js')
     app.add_js_file('statistics.js')
-
+    app.add_js_file('sidebar_scope.js')
 
 import os, re, importlib.util
 from jinja2 import Environment, FileSystemLoader
